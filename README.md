@@ -4,7 +4,7 @@ Sistema completo de generación de facturas, utilizando [FastAPI](https://fastap
 
 ## Autor
 
-- Nombre del Estudiante - @perfil_de_github
+- Nombre del Estudiante - Juan Camilo Diaz Erazo (juanC0627)
 
 ## Descripción del Proyecto
 
